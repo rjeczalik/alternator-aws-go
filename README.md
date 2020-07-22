@@ -1,0 +1,1 @@
+# alternator-aws-go
